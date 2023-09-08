@@ -3,15 +3,17 @@ background-color: white;
 font-family: sans serif helvetica;
 }
 
-p{
+h1{
+position: center;}
+
+p {
 background color:grey;
 margin:15px;
-media(min-width: 992px){p{color:black;}}
+media (min-width: 992px){p{color:black;}}
 width: 80%;
-clear: both;
 box-sizing: border-box;}
 
-.chicken{
+.chicken {
 position: relative;
   right: 100px;}
 
