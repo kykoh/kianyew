@@ -4,4 +4,9 @@ font-family: sans serif helvetica;
 }
 
 .chicken{
-background color
+background color:grey;
+margin:15px;
+media(min-width: 992px){p{ color:black;}}
+width: 80%;
+float: both
+}
