@@ -1,1 +1,18 @@
+body{
+background-color: white;
+font-family: sans serif helvetica;
+}
 
+h1{
+position: center;}
+
+p {
+background color:grey;
+margin:15px;
+media (min-width: 992px){p{color:black;}}
+width: 80%;
+box-sizing: border-box;}
+
+.chicken {
+position: relative;
+  right: 100px;}
